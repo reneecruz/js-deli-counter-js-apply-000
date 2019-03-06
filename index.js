@@ -1,6 +1,6 @@
 function takeANumber(katzDeliLine, number) {
-  katzDeliLine = katzDeliLine.push(name);
-  return (`Welcome, ${name}. You are number ${katzDeliLine} in line.`);
+  katzDeliLine = katzDeliLine.push(number);
+  return (`Welcome, ${number}. You are number ${katzDeliLine} in line.`);
 }
 
 //for above Welcome Message, consider using String Interpolation Template Literals? 
