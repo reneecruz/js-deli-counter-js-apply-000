@@ -1,6 +1,7 @@
 function takeANumber(katzDeliLine, ticketNumber) {
   var ticketNumber = [];
   
+  
   katzDeliLine = katzDeliLine.push(ticketNumber[i]);
   return (`Welcome, ${ticketNumber}. You are number ${katzDeliLine} in line.`);
 }
