@@ -1,9 +1,6 @@
-function takeANumber(katzDeliLine, ticketNumber) {
-  var ticketNumber = [];
-  function ticketNumber()
-  
-  katzDeliLine = katzDeliLine.push(ticketNumber[i]);
-  return (`Welcome, ${ticketNumber}. You are number ${katzDeliLine} in line.`);
+function takeANumber(katzDeliLine, name) {
+  katzDeliLine = katzDeliLine.push(name);
+  return (`Welcome, ${name}. You are number ${katzDeliLine} in line.`);
 }
 
 //for above Welcome Message, consider using String Interpolation Template Literals? 
