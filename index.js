@@ -1,4 +1,5 @@
 function takeANumber(katzDeliLine, number) {
+  var number = [];
   katzDeliLine = katzDeliLine.push(number);
   return (`Welcome, ${number}. You are number ${katzDeliLine} in line.`);
 }
